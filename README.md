@@ -20,6 +20,6 @@ Fore more informations here: http://sandroaspbiztalkblog.wordpress.com/2012/08/0
 ## About Us
 This project was made along with my fellow team members.
 
-**Sandro Pereira** | DevScope | MVP & MCTS BizTalk Server 2010 | http://sandroaspbiztalkblog.wordpress.com/ | @sandro_asp
+**Sandro Pereira** | [DevScope](http://www.devscope.net/) | MVP & MCTS BizTalk Server 2010 | [https://blog.sandro-pereira.com/](https://blog.sandro-pereira.com/) | [@sandro_asp](https://twitter.com/sandro_asp)
 
-**Rui Machado** | http://rpmachado.wordpress.com/ | @ruimachado89
+**Rui Machado** | [http://rpmachado.wordpress.com/](http://rpmachado.wordpress.com/) | [@ruimachado89](https://twitter.com/ruimachado89)
