@@ -1,0 +1,69 @@
+c:\development\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.CustomAction\bin\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.dll
+c:\development\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.CustomAction\bin\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.pdb
+c:\development\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\ResolveAssemblyReference.cache
+c:\development\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.dll
+c:\development\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.pdb
+C:\Development\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.CustomActions.resources
+C:\Development\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\GenerateResource.read.1.tlog
+C:\Development\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.CustomAction\bin\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.dll
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.CustomAction\bin\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.pdb
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.CustomActions.resources
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.dll
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.pdb
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.CustomAction\bin\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.dll
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.CustomAction\bin\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.pdb
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.CustomActions.resources
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.dll
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.pdb
+C:\Development\_Under Development\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.CustomAction\bin\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.dll
+C:\Development\_Under Development\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.CustomAction\bin\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.pdb
+C:\Development\_Under Development\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\_Under Development\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.CustomActions.resources
+C:\Development\_Under Development\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\GenerateResource.read.1.tlog
+C:\Development\_Under Development\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\GenerateResource.write.1.tlog
+C:\Development\_Under Development\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.dll
+C:\Development\_Under Development\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.pdb
+C:\Users\Administrator\Desktop\INST\INST_BizTalk.Functoid.Wizard_v1.0\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.CustomAction\bin\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.dll
+C:\Users\Administrator\Desktop\INST\INST_BizTalk.Functoid.Wizard_v1.0\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.CustomAction\bin\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.pdb
+C:\Users\Administrator\Desktop\INST\INST_BizTalk.Functoid.Wizard_v1.0\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\INST\INST_BizTalk.Functoid.Wizard_v1.0\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.CustomActions.resources
+C:\Users\Administrator\Desktop\INST\INST_BizTalk.Functoid.Wizard_v1.0\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\INST\INST_BizTalk.Functoid.Wizard_v1.0\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\INST\INST_BizTalk.Functoid.Wizard_v1.0\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.dll
+C:\Users\Administrator\Desktop\INST\INST_BizTalk.Functoid.Wizard_v1.0\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.pdb
+C:\Users\xdev002.DEVPTASP\Desktop\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.CustomAction\bin\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.dll
+C:\Users\xdev002.DEVPTASP\Desktop\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.CustomAction\bin\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.pdb
+C:\Users\xdev002.DEVPTASP\Desktop\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\xdev002.DEVPTASP\Desktop\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.CustomActions.resources
+C:\Users\xdev002.DEVPTASP\Desktop\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\xdev002.DEVPTASP\Desktop\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\xdev002.DEVPTASP\Desktop\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.dll
+C:\Users\xdev002.DEVPTASP\Desktop\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.pdb
+C:\Users\Administrator\Downloads\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.CustomAction\bin\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.dll
+C:\Users\Administrator\Downloads\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.CustomAction\bin\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.pdb
+C:\Users\Administrator\Downloads\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.CustomActions.resources
+C:\Users\Administrator\Downloads\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.dll
+C:\Users\Administrator\Downloads\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.pdb
+C:\Users\Administrator\Downloads\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.csprojResolveAssemblyReference.cache
+C:\Temp\A\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.CustomAction\bin\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.dll
+C:\Temp\A\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.CustomAction\bin\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.pdb
+C:\Temp\A\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.csprojResolveAssemblyReference.cache
+C:\Temp\A\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.CustomActions.resources
+C:\Temp\A\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.csproj.GenerateResource.Cache
+C:\Temp\A\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.dll
+C:\Temp\A\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.pdb
+C:\Development\Pet Projects\BizTalk MapperExtensions Functoid Wizard\BizTalk.MapperExtensions.Functoid.CustomAction\bin\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.dll
+C:\Development\Pet Projects\BizTalk MapperExtensions Functoid Wizard\BizTalk.MapperExtensions.Functoid.CustomAction\bin\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.pdb
+C:\Development\Pet Projects\BizTalk MapperExtensions Functoid Wizard\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.CustomActions.resources
+C:\Development\Pet Projects\BizTalk MapperExtensions Functoid Wizard\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.csproj.GenerateResource.Cache
+C:\Development\Pet Projects\BizTalk MapperExtensions Functoid Wizard\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.dll
+C:\Development\Pet Projects\BizTalk MapperExtensions Functoid Wizard\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.pdb
+C:\Development\Pet Projects\BizTalk MapperExtensions Functoid Wizard\BizTalk.MapperExtensions.Functoid.CustomAction\obj\Debug\BizTalk.MapperExtensions.Functoid.CustomAction.csprojResolveAssemblyReference.cache
