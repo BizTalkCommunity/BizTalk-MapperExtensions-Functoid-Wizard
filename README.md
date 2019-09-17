@@ -15,7 +15,7 @@ I also want to give all credits to the original creator of this project. The fir
 
 To use this project template just run the setup file available on "Installation Files" folder and after the installation finished you will be able to see a new option in your Visual Studio BizTalk projects.
 
-Fore more informations here: http://sandroaspbiztalkblog.wordpress.com/2012/08/06/biztalk-mapperextensions-functoid-wizard/
+Fore more informations here: [BizTalk MapperExtensions Functoid Wizard](https://blog.sandro-pereira.com/2017/03/27/biztalk-mapperextensions-functoid-wizard-biztalk-server-2016/)
 
 ## About Us
 This project was made along with my fellow team members.
