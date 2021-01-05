@@ -1,5 +1,5 @@
 # BizTalk MapperExtensions Functoid Wizard
-BizTalk MapperExtensions Functoid Wizard is a Custom Functoid Project Wizard for Visual Studio 2010. It allows you to create new Functoids project for BizTalk Server 2010 without having to create manually the project, in other words, having to manually create:
+BizTalk MapperExtensions Functoid Wizard is a Custom Functoid Project Wizard for Visual Studio. It allows you to create new Functoids project for BizTalk Server 2010 without having to create manually the project, in other words, having to manually create:
 * A new class library project in Visual Studio;
 * Add a reference to the Microsoft.BizTalk.BaseFunctoids assembly;
 * Add New Class and having to code the entire class;
