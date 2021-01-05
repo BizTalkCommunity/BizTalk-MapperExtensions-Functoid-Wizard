@@ -7,7 +7,7 @@ BizTalk MapperExtensions Functoid Wizard is a Custom Functoid Project Wizard for
 This Wizard will do this process automatically, and used in conjunction with Item Template for Visual Studio: Custom BizTalk Functoid will facilitate and significantly expedite the development process of our projects.
 
 ## Description
-This version is an optimization of Jan Eliasen - [Custom Functoid Wizard](http://blog.eliasen.dk/2010/10/20/CustomFunctoidWizard.aspx) available for Visual Studio 2008/ BizTalk Server 2009, so all credits to Jan Eliasen I just have released a version for Visual Studio 2010 and probably with minor improvements
+This version is an optimization of Jan Eliasen - [Custom Functoid Wizard](http://blog.eliasen.dk/2010/10/20/CustomFunctoidWizard.aspx) available for Visual Studio 2008/ BizTalk Server 2009, so all credits to Jan Eliasen. We just have released new versions for recent version of Visual Studio and probably with minor improvements
 
 I also want to give all credits to the original creator of this project. The first version of this project became available for BizTalk Server 2004 and 2006 versions, and was Leandro Díaz Guerra its original creator, so all credits to Leandro for is job in this wizard.
 
